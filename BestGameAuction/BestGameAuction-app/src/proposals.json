@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Borderlands 3",
+    "picture": "images/Borderlands3.png"
+  },
+  {
+    "id": 1,
+    "name": "Call of Duty: Modern Warfare",
+    "picture": "images/COD.png"
+  },
+  {
+    "id": 2,
+    "name": "Sekiro: Shadows Die Twice",
+    "picture": "images/Sekiroo.png"
+  },
+  {
+    "id": 3,
+    "name": "Apex Legends",
+    "picture": "images/Apexx.png"
+  },
+  {
+    "id": 4,
+    "name": "Battlefield 5",
+    "picture": "images/BA5.png"
+  },
+  {
+    "id": 5,
+    "name": "Risk of Rain 2",
+    "picture": "images/Riskk.png"
+  },
+  {
+    "id": 6,
+    "name": "Code Vein",
+    "picture": "images/Code.png"
+  },
+  {
+    "id": 7,
+    "name": "The Outer Worlds",
+    "picture": "images/Outerr.png"
+  }
+]

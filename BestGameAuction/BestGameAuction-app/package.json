@@ -1,0 +1,14 @@
+{
+  "name": "bestgameauction",
+  "version": "1.0.0",
+  "description": "Best Game of 2019",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carmen Tam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
